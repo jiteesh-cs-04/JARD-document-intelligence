@@ -1,4 +1,4 @@
-# JARD — Agentic Document Intelligence Platform (PS23)
+# JARD — Agentic Document Intelligence Platform 
 
 **Exasol AI Build Challenge 2026**
 
